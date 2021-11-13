@@ -1,0 +1,17 @@
+Nome da DB			 
+id16951797_tarefas
+
+Usuário DB
+id16951797_localhost	
+
+Hospedagem de DB
+localhost
+
+senha
+Electra*9110
+
+
+$bdServidor = 'localhost'; //Pode ser localhost
+$bdUsuario = 'id16951797_localhost'; //Usuário criado no BD
+$bdSenha = 'Electra*9110'; //Senha totalmente exposta do BD
+$bdBanco = 'id16951797_tarefas'; //Nome do BD dentro do Servidor
